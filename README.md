@@ -5,7 +5,7 @@
 # Data Science Hackathon Overview
 We were given 16 hours to build a model to classify images into 40 different mathematical symbols. We built a simple Convolutional Neural Network and opimized accuracy with k-fold cross validation and majority voting ensemble learning. A more detailed description of our approach can be found in this blog post here. 
 
-![alt text](
+![alt text](https://github.com/tedyap/SaintMarysCollege-Hackathon/blob/master/symbol.gif "symbol")
 
 # Training Data
 The training data comprises 99300 jpg images of handwritten mathematical symbols. Each image is greyscale and is
