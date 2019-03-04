@@ -12,7 +12,7 @@ imageid_imagelabel.jpg, for example
 32_infinity.jpg, or 33247_greater_than.jpg.
 
 # Test Data Description
-The only difference between an image in the test data set and the training data set is that there is no image label in the file name. So the name of a test image would be something like \texttt{45.jpg}. There are 14000 test images.
+The only difference between an image in the test data set and the training data set is that there is no image label in the file name. So the name of a test image would be something like $\texttt{45.jpg}$. There are 14000 test images.
 
 #
 
