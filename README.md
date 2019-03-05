@@ -1,4 +1,4 @@
-# Saint Mary's College Data Science Hackathon \n Illinois Wesleyan University Data Science Club
+# Saint Mary's College Data Science Hackathon\ Illinois Wesleyan University Data Science Club
 
 [Hackathon Home Page](https://www.saintmarys.edu/math/data-science-hackathon)
 
