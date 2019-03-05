@@ -1,9 +1,10 @@
-# Saint Mary's College Data Science Hackathon - Illinois Wesleyan University Data Science Club
+# Saint Mary's College Data Science Hackathon - 
+# Illinois Wesleyan University Data Science Club
 
 [Hackathon Home Page](https://www.saintmarys.edu/math/data-science-hackathon)
 
 # Data Science Hackathon Overview
-We were given 16 hours to build a model to classify images into 40 different mathematical symbols. We built a simple Convolutional Neural Network and opimized accuracy with k-fold cross validation and majority voting ensemble learning. A more detailed description of our approach can be found in this blog post here. 
+We were given 16 hours to build a model to classify images into 40 different mathematical symbols. We built a simple Convolutional Neural Network and opimized accuracy with k-fold cross validation and majority voting ensemble learning. A more detailed description of our approach can be found in this blog post here. We won second place in the end out of 14 teams. 
 
 ![alt text](https://github.com/tedyap/SaintMarysCollege-Hackathon/blob/master/symbol.gif "symbol")
 
