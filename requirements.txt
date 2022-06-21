@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 Keras == 2.2.4
-numpy == 1.14.3
+numpy == 1.22.0
 scikit_image == 0.13.1
 scikit_learn == 0.19.1
 scipy == 1.1.0
